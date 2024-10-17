@@ -43,10 +43,6 @@ This project was developed as the final assignment for my freshman web programmi
 
 ---
 
-非常棒的想法！在README中增加一個關於多語言翻譯的未來改進可以進一步展示你對用戶體驗和國際化的考慮。這裡是針對**多語言翻譯**的延伸內容，並加入到你之前的**Future Improvements**部分中：
-
----
-
 ### Future Improvements
 
 1. **Mobile Responsiveness**:  
