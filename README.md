@@ -1,4 +1,4 @@
-# NTPU Bubble Tea Map  
+# NTPU Bubble Tea Shop Map  
 **Freshman General Education Course: Web Programming - Final Project**
 
 ### Project Overview
